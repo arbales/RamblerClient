@@ -1,0 +1,230 @@
+TRamblerClient
+v7
+r0
+t309214248.464892
+cCheck dependencies
+cProcessInfoPlistFile "/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app/Contents/Info.plist" Info.plist
+cCopyStringsFile "/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCpResource build/Debug/RamblerClient.app/Contents/Resources/rb_main.rb rb_main.rb
+cCompileXIB "/Users/austin/Ruby Workspace/RamblerClient/English.lproj/MainMenu.xib"
+cCpResource build/Debug/RamblerClient.app/Contents/Resources/ApplicationController.rb ApplicationController.rb
+cCpResource "build/Debug/RamblerClient.app/Contents/Resources/Growl Registration Ticket.growlRegDict" "Growl Registration Ticket.growlRegDict"
+cCompileC build/RamblerClient.build/Debug/RamblerClient.build/Objects-normal/x86_64/main.o "/Users/austin/Ruby Workspace/RamblerClient/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app/Contents/MacOS/RamblerClient" normal x86_64
+cPBXCp build/Debug/RamblerClient.app/Contents/Frameworks/Growl-WithInstaller.framework Growl-WithInstaller.framework
+cTouch "/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app"
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004C7D93E900000000000000EE
+t1283298281
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/Library/Frameworks/MacRuby.framework/Headers/MacRuby.h
+c000000004B732500000000000000005F
+t1265837312
+s95
+
+N/Library/Frameworks/MacRuby.framework/MacRuby
+c000000004CBD52440000000001690AB8
+t1287475780
+s23661240
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/austin/Ruby Workspace/RamblerClient/ApplicationController.rb
+c000000004CBE048A0000000000000206
+t1287521418
+s518
+
+N/Users/austin/Ruby Workspace/RamblerClient/English.lproj/InfoPlist.strings
+c000000004CBE02DC00000000000000CA
+t1287520988
+s202
+
+N/Users/austin/Ruby Workspace/RamblerClient/English.lproj/MainMenu.xib
+c000000004CBE04A5000000000001D86F
+t1287521445
+s120943
+
+N/Users/austin/Ruby Workspace/RamblerClient/Growl Registration Ticket.growlRegDict
+c000000004BCF464600000000000001BB
+t1271875142
+s443
+
+N/Users/austin/Ruby Workspace/RamblerClient/Growl-WithInstaller.framework
+c000000004C364A1000000000000000CC
+t1278626320
+s204
+
+N/Users/austin/Ruby Workspace/RamblerClient/Growl-WithInstaller.framework/Growl-WithInstaller
+c000000004C364A1000000000000608D4
+t1278626320
+s395476
+
+N/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app
+t1287521448
+s102
+
+N/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app/Contents/Frameworks/Growl-WithInstaller.framework
+t1287521448
+s204
+
+N/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app/Contents/Info.plist
+t1287521446
+s787
+
+N/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app/Contents/MacOS/RamblerClient
+t1287521448
+s9080
+
+N/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app/Contents/PkgInfo
+t1287521446
+s8
+
+N/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app/Contents/Resources/ApplicationController.rb
+t1287521446
+s518
+
+N/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1287521446
+s202
+
+N/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app/Contents/Resources/English.lproj/MainMenu.nib
+t1287521447
+s20364
+
+N/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app/Contents/Resources/Growl Registration Ticket.growlRegDict
+t1287521446
+s443
+
+N/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app/Contents/Resources/rb_main.rb
+t1287521446
+s624
+
+N/Users/austin/Ruby Workspace/RamblerClient/build/RamblerClient.build/Debug/RamblerClient.build/Objects-normal/x86_64/RamblerClient.LinkFileList
+c000000004CBE04A6000000000000007C
+t1287521446
+s124
+
+N/Users/austin/Ruby Workspace/RamblerClient/build/RamblerClient.build/Debug/RamblerClient.build/Objects-normal/x86_64/main.o
+t1287521447
+s5364
+
+N/Users/austin/Ruby Workspace/RamblerClient/main.m
+c000000004CBE02DC0000000000000100
+t1287520988
+s256
+i<MacRuby/MacRuby.h>
+
+N/Users/austin/Ruby Workspace/RamblerClient/rb_main.rb
+c000000004CBE02DC0000000000000270
+t1287520988
+s624
+
+NInfo.plist
+c000000004CBE02DC000000000000034A
+t1287520988
+s842
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309214246#309214246#0(0"0(0#1#0"32651513917735028#0"0#
+
+CCompileC build/RamblerClient.build/Debug/RamblerClient.build/Objects-normal/x86_64/main.o "/Users/austin/Ruby Workspace/RamblerClient/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s309214247.063747
+e309214247.755206
+r1
+xCompileC
+xbuild/RamblerClient.build/Debug/RamblerClient.build/Objects-normal/x86_64/main.o
+x/Users/austin/Ruby Workspace/RamblerClient/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/austin/Ruby Workspace/RamblerClient/main.m309214247#309214247#0(0"0(0#0#49"/Users/austin/Ruby Workspace/RamblerClient/main.m8600063616#1128"    cd "/Users/austin/Ruby Workspace/RamblerClient"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.5 -gdwarf-2 "-I/Users/austin/Ruby Workspace/RamblerClient/build/RamblerClient.build/Debug/RamblerClient.build/RamblerClient.hmap" "-F/Users/austin/Ruby Workspace/RamblerClient/build/Debug" "-F/Users/austin/Ruby Workspace/RamblerClient/build/Debug" "-F/Users/austin/Ruby Workspace/RamblerClient" "-I/Users/austin/Ruby Workspace/RamblerClient/build/Debug/include" "-I/Users/austin/Ruby Workspace/RamblerClient/build/RamblerClient.build/Debug/RamblerClient.build/DerivedSources/x86_64" "-I/Users/austin/Ruby Workspace/RamblerClient/build/RamblerClient.build/Debug/RamblerClient.build/DerivedSources" -c "/Users/austin/Ruby Workspace/RamblerClient/main.m" -o "/Users/austin/Ruby Workspace/RamblerClient/build/RamblerClient.build/Debug/RamblerClient.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Users/austin/Ruby Workspace/RamblerClient/English.lproj/MainMenu.xib"
+s309214246.801043
+e309214247.063633
+r1
+xCompileXIB
+x/Users/austin/Ruby Workspace/RamblerClient/English.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/austin/Ruby Workspace/RamblerClient/English.lproj/MainMenu.xib:376: warning: Image scaling is not supported on Mac OS X versions prior to 10.5.
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib309214246#309214247#0(192"/* com.apple.ibtool.document.warnings *//Users/austin/Ruby Workspace/RamblerClient/English.lproj/MainMenu.xib:376: warning: Image scaling is not supported on Mac OS X versions prior to 10.5.1(22@66"Image scaling is not supported on Mac OS X versions prior to 10.5.309214247#18446744073709551615#0#0(6@69"/Users/austin/Ruby Workspace/RamblerClient/English.lproj/MainMenu.xib309214245#376#0#376#0#0"0(0#0#69"/Users/austin/Ruby Workspace/RamblerClient/English.lproj/MainMenu.xib8608951616#388"    cd "/Users/austin/Ruby Workspace/RamblerClient"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/austin/Ruby Workspace/RamblerClient/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.5.sdk0#
+
+CCopyStringsFile "/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s309214246.795556
+e309214246.885762
+r1
+xCopyStringsFile
+x/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings309214246#309214246#0(0"0(0#0#74"/Users/austin/Ruby Workspace/RamblerClient/English.lproj/InfoPlist.strings8603135456#384"    cd "/Users/austin/Ruby Workspace/RamblerClient"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app/Contents/Resources/English.lproj"0#
+
+CCpResource "build/Debug/RamblerClient.app/Contents/Resources/Growl Registration Ticket.growlRegDict" "Growl Registration Ticket.growlRegDict"
+s309214246.803330
+e309214246.820896
+r1
+xCpResource
+xbuild/Debug/RamblerClient.app/Contents/Resources/Growl Registration Ticket.growlRegDict
+xGrowl Registration Ticket.growlRegDict
+lSLF07#2@43"Copy Growl Registration Ticket.growlRegDict309214246#309214246#0(0"0(0#0#81"/Users/austin/Ruby Workspace/RamblerClient/Growl Registration Ticket.growlRegDict8619766176#378"    cd "/Users/austin/Ruby Workspace/RamblerClient"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/austin/Ruby Workspace/RamblerClient/Growl Registration Ticket.growlRegDict" "/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app/Contents/Resources"0#
+
+CCpResource build/Debug/RamblerClient.app/Contents/Resources/ApplicationController.rb ApplicationController.rb
+s309214246.801768
+e309214246.821308
+r1
+xCpResource
+xbuild/Debug/RamblerClient.app/Contents/Resources/ApplicationController.rb
+xApplicationController.rb
+lSLF07#2@29"Copy ApplicationController.rb309214246#309214246#0(0"0(0#0#67"/Users/austin/Ruby Workspace/RamblerClient/ApplicationController.rb8617497504#364"    cd "/Users/austin/Ruby Workspace/RamblerClient"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/austin/Ruby Workspace/RamblerClient/ApplicationController.rb" "/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app/Contents/Resources"0#
+
+CCpResource build/Debug/RamblerClient.app/Contents/Resources/rb_main.rb rb_main.rb
+s309214246.799934
+e309214246.821149
+r1
+xCpResource
+xbuild/Debug/RamblerClient.app/Contents/Resources/rb_main.rb
+xrb_main.rb
+lSLF07#2@15"Copy rb_main.rb309214246#309214246#0(0"0(0#0#53"/Users/austin/Ruby Workspace/RamblerClient/rb_main.rb8599905888#350"    cd "/Users/austin/Ruby Workspace/RamblerClient"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/austin/Ruby Workspace/RamblerClient/rb_main.rb" "/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app/Contents/Resources"0#
+
+CLd "/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app/Contents/MacOS/RamblerClient" normal x86_64
+s309214247.755307
+e309214248.259721
+r1
+xLd
+x/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app/Contents/MacOS/RamblerClient
+xnormal
+xx86_64
+lSLF07#2@106"Link /Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app/Contents/MacOS/RamblerClient309214247#309214248#0(0"0(0#0#0"8600085600#758"    cd "/Users/austin/Ruby Workspace/RamblerClient"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.5.sdk "-L/Users/austin/Ruby Workspace/RamblerClient/build/Debug" "-F/Users/austin/Ruby Workspace/RamblerClient/build/Debug" "-F/Users/austin/Ruby Workspace/RamblerClient/build/Debug" "-F/Users/austin/Ruby Workspace/RamblerClient" -filelist "/Users/austin/Ruby Workspace/RamblerClient/build/RamblerClient.build/Debug/RamblerClient.build/Objects-normal/x86_64/RamblerClient.LinkFileList" -mmacosx-version-min=10.5 -framework Cocoa -framework MacRuby -framework Growl-WithInstaller -o "/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app/Contents/MacOS/RamblerClient"0#
+
+CPBXCp build/Debug/RamblerClient.app/Contents/Frameworks/Growl-WithInstaller.framework Growl-WithInstaller.framework
+s309214248.259815
+e309214248.437757
+r1
+xPBXCp
+xbuild/Debug/RamblerClient.app/Contents/Frameworks/Growl-WithInstaller.framework
+xGrowl-WithInstaller.framework
+lSLF07#2@34"Copy Growl-WithInstaller.framework309214248#309214248#0(0"0(0#0#72"/Users/austin/Ruby Workspace/RamblerClient/Growl-WithInstaller.framework8619573408#370"    cd "/Users/austin/Ruby Workspace/RamblerClient"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/austin/Ruby Workspace/RamblerClient/Growl-WithInstaller.framework" "/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app/Contents/Frameworks"0#
+
+CProcessInfoPlistFile "/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app/Contents/Info.plist" Info.plist
+s309214246.773973
+e309214246.795454
+r1
+xProcessInfoPlistFile
+x/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist309214246#309214246#0(0"0(0#0#53"/Users/austin/Ruby Workspace/RamblerClient/Info.plist3414973617650413568#332"    cd "/Users/austin/Ruby Workspace/RamblerClient"    builtin-infoPlistUtility Info.plist -genpkginfo "/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app/Contents/Info.plist"0#
+
+CTouch "/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app"
+s309214248.437905
+e309214248.464832
+r1
+xTouch
+x/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app
+lSLF07#2@78"Touch /Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app309214248#309214248#0(0"0(0#0#0"8619238016#149"    cd "/Users/austin/Ruby Workspace/RamblerClient"    /usr/bin/touch -c "/Users/austin/Ruby Workspace/RamblerClient/build/Debug/RamblerClient.app"0#
+
