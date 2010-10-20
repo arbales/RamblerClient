@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>ActivePerspectiveName</key>
-	<string>Project</string>
+	<string>Debug</string>
 	<key>AllowedModules</key>
 	<array>
 		<dict>
@@ -216,11 +216,11 @@
 						<key>_historyCapacity</key>
 						<integer>0</integer>
 						<key>bookmark</key>
-						<string>D9CB35F9126E73DD00C3BB4E</string>
+						<string>D9CB3639126E779700C3BB4E</string>
 						<key>history</key>
 						<array>
-							<string>D9CB35C5126E707400C3BB4E</string>
-							<string>D9CB35D7126E71E500C3BB4E</string>
+							<string>D9CB3612126E759A00C3BB4E</string>
+							<string>D9CB3613126E759A00C3BB4E</string>
 						</array>
 					</dict>
 					<key>SplitCount</key>
@@ -232,11 +232,11 @@
 			<key>Geometry</key>
 			<dict>
 				<key>Frame</key>
-				<string>{{0, 20}, {1289, 833}}</string>
+				<string>{{0, 20}, {1194, 562}}</string>
 				<key>PBXModuleWindowStatusBarHidden2</key>
 				<false/>
 				<key>RubberWindowFrame</key>
-				<string>696 97 1289 874 0 0 1920 1178 </string>
+				<string>635 575 1194 603 0 0 1920 1178 </string>
 			</dict>
 		</dict>
 	</array>
@@ -273,8 +273,6 @@
 			<key>Layout</key>
 			<array>
 				<dict>
-					<key>BecomeActive</key>
-					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -312,7 +310,6 @@
 							<array>
 								<string>29B97314FDCFA39411CA2CEA</string>
 								<string>080E96DDFE201D6D7F000001</string>
-								<string>29B97317FDCFA39411CA2CEA</string>
 								<string>29B97323FDCFA39411CA2CEA</string>
 								<string>1C37FBAC04509CD000000102</string>
 								<string>D9CB34CF126E653700C3BB4E</string>
@@ -321,7 +318,6 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>12</integer>
 									<integer>7</integer>
 									<integer>0</integer>
 								</array>
@@ -343,8 +339,6 @@
 							<string>MainColumn</string>
 							<real>315</real>
 						</array>
-						<key>RubberWindowFrame</key>
-						<string>840 327 1112 851 0 0 1920 1178 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -372,7 +366,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>D9CB35F8126E73DD00C3BB4E</string>
+										<string>D9CB3638126E779700C3BB4E</string>
 										<key>history</key>
 										<array>
 											<string>D9CB3519126E69CB00C3BB4E</string>
@@ -391,8 +385,6 @@
 							<dict>
 								<key>Frame</key>
 								<string>{{0, 0}, {775, 416}}</string>
-								<key>RubberWindowFrame</key>
-								<string>840 327 1112 851 0 0 1920 1178 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -416,8 +408,6 @@
 									<dict>
 										<key>Frame</key>
 										<string>{{10, 27}, {775, 362}}</string>
-										<key>RubberWindowFrame</key>
-										<string>840 327 1112 851 0 0 1920 1178 </string>
 									</dict>
 									<key>Module</key>
 									<string>XCDetailModule</string>
@@ -544,6 +534,8 @@
 			<key>Layout</key>
 			<array>
 				<dict>
+					<key>BecomeActive</key>
+					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXProjectModuleGUID</key>
@@ -555,6 +547,8 @@
 					<dict>
 						<key>Frame</key>
 						<string>{{0, 0}, {1112, 362}}</string>
+						<key>RubberWindowFrame</key>
+						<string>588 185 1112 851 0 0 1920 1178 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXDebugCLIModule</string>
@@ -629,7 +623,11 @@
 							</array>
 							<key>Frame</key>
 							<string>{{542, 0}, {570, 215}}</string>
+							<key>RubberWindowFrame</key>
+							<string>588 185 1112 851 0 0 1920 1178 </string>
 						</dict>
+						<key>RubberWindowFrame</key>
+						<string>588 185 1112 851 0 0 1920 1178 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXDebugSessionModule</string>
@@ -695,14 +693,14 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>D9CB35F4126E73C300C3BB4E</string>
+		<string>D9CB363A126E779700C3BB4E</string>
 		<string>D9CB34DF126E653700C3BB4E</string>
 		<string>D9CB34E0126E653700C3BB4E</string>
-		<string>D9CB3567126E6CAE00C3BB4E</string>
 		<string>/Users/austin/Ruby Workspace/RamblerClient/RamblerClient.xcodeproj</string>
+		<string>D9CB3567126E6CAE00C3BB4E</string>
 	</array>
 	<key>WindowString</key>
-	<string>840 327 1112 851 0 0 1920 1178 </string>
+	<string>588 185 1112 851 0 0 1920 1178 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
