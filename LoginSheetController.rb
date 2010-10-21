@@ -12,9 +12,20 @@ class LoginSheetController < BWSheetController
 		standardUserDefaults = NSUserDefaults.standardUserDefaults
 
 		if (standardUserDefaults)
-			username = standardUserDefaults.objectForKey "RamblerUsername"
-			keyitem = EMGenericKeychainItem.genericKeychainItemForService "Rambler", withUsername: username
-			puts keyitem.password
+				username = standardUserDefaults.objectForKey("RamblerUsername")
+
+			if (username != "")
+				password = EMGenericKeychainItem.genericKeychainItemForService("Rambler", withUsername: username)			
+			
+				if (username && password)
+					@username_field.setStringValue(username)
+					@password_field.setStringValue(password.password)
+					do_login(nil)
+				end
+			
+			end
+		
+			
 		end
 	
 	end
@@ -24,6 +35,7 @@ class LoginSheetController < BWSheetController
 			standardUserDefaults = NSUserDefaults.standardUserDefaults
 
 			if (standardUserDefaults)
+				#username = standardUserDefaults.objectForKey("RamblerUsername")
 				standardUserDefaults.setObject @username_field.stringValue(), forKey:"RamblerUsername"
 				standardUserDefaults.synchronize
 			end
@@ -32,12 +44,13 @@ class LoginSheetController < BWSheetController
 			@wheel.startAnimation(nil)
 			@password_field.setEnabled false
 			@username_field.setEnabled false
-#X			referencer = self;
 			MacRubyHTTP.post("http://desk.austinbales.com/login", {payload: {username: @username_field.stringValue, password: @password_field.stringValue}}) do |response|
 				body = NSString.alloc.initWithData(response.body, encoding:NSString.defaultCStringEncoding)
 				if (body == "Success")
+					puts "Success"
 					EMGenericKeychainItem.addGenericKeychainItemForService "Rambler", withUsername:@username_field.stringValue, password:@password_field.stringValue()
 					@delegator.closeSheet(nil)
+					NSApp.delegate.afterLogin()
 				else
 					@wheel.stopAnimation(nil)
 					@username_field.setEnabled true

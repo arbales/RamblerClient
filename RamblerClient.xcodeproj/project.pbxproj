@@ -49,6 +49,9 @@
 		8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165CFE840E0CC02AAC07 /* InfoPlist.strings */; };
 		8D11072D0486CEB800E47090 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; settings = {ATTRIBUTES = (); }; };
 		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
+		D93D8D02126F6B8900390285 /* splash.png in Resources */ = {isa = PBXBuildFile; fileRef = D93D8D01126F6B8900390285 /* splash.png */; };
+		D93D8D09126F6D2100390285 /* RamblerMenu.rb in Resources */ = {isa = PBXBuildFile; fileRef = D93D8D08126F6D2100390285 /* RamblerMenu.rb */; };
+		D93D8D17126F6F4C00390285 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = D93D8D16126F6F4C00390285 /* icon.png */; };
 		D9CB3237126E3B8800C3BB4E /* ApplicationController.rb in Resources */ = {isa = PBXBuildFile; fileRef = D9CB3236126E3B8800C3BB4E /* ApplicationController.rb */; };
 		D9CB3239126E3BAF00C3BB4E /* Growl Registration Ticket.growlRegDict in Resources */ = {isa = PBXBuildFile; fileRef = D9CB3238126E3BAF00C3BB4E /* Growl Registration Ticket.growlRegDict */; };
 		D9CB326D126E3CD600C3BB4E /* Growl.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D9CB326C126E3CD600C3BB4E /* Growl.framework */; };
@@ -93,6 +96,9 @@
 		4DE3BE130D8651D900ECA448 /* MacRuby.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MacRuby.framework; path = /Library/Frameworks/MacRuby.framework; sourceTree = "<absolute>"; };
 		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8D1107320486CEB800E47090 /* RamblerClient.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RamblerClient.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D93D8D01126F6B8900390285 /* splash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = splash.png; sourceTree = "<group>"; };
+		D93D8D08126F6D2100390285 /* RamblerMenu.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = RamblerMenu.rb; sourceTree = "<group>"; };
+		D93D8D16126F6F4C00390285 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 		D9CB3236126E3B8800C3BB4E /* ApplicationController.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = ApplicationController.rb; sourceTree = "<group>"; };
 		D9CB3238126E3BAF00C3BB4E /* Growl Registration Ticket.growlRegDict */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Growl Registration Ticket.growlRegDict"; sourceTree = "<group>"; };
 		D9CB326C126E3CD600C3BB4E /* Growl.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Growl.framework; sourceTree = "<group>"; };
@@ -128,6 +134,7 @@
 				D9CB327B126E3D7800C3BB4E /* macruby_http.rb */,
 				D9CB33C0126E562800C3BB4E /* Hash.rb */,
 				D9CB3515126E68EF00C3BB4E /* LoginSheetController.rb */,
+				D93D8D08126F6D2100390285 /* RamblerMenu.rb */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -195,6 +202,8 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				D93D8D16126F6F4C00390285 /* icon.png */,
+				D93D8D01126F6B8900390285 /* splash.png */,
 				D9CB342E126E5BA800C3BB4E /* rambler.icns */,
 				D9CB3388126E4DD400C3BB4E /* logo_2.png */,
 				D9CB3386126E4D8700C3BB4E /* Untitled-1.png */,
@@ -246,6 +255,9 @@
 /* Begin PBXProject section */
 		29B97313FDCFA39411CA2CEA /* Project object */ = {
 			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = Odopod;
+			};
 			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "RamblerClient" */;
 			compatibilityVersion = "Xcode 3.0";
 			hasScannedForEncodings = 1;
@@ -278,6 +290,9 @@
 				D9CB33C1126E562800C3BB4E /* Hash.rb in Resources */,
 				D9CB342F126E5BA800C3BB4E /* rambler.icns in Resources */,
 				D9CB3516126E68EF00C3BB4E /* LoginSheetController.rb in Resources */,
+				D93D8D02126F6B8900390285 /* splash.png in Resources */,
+				D93D8D09126F6D2100390285 /* RamblerMenu.rb in Resources */,
+				D93D8D17126F6F4C00390285 /* icon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -516,7 +531,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				PREBINDING = NO;
-				SDKROOT = "$(DEVELOPER_SDK_DIR)/MacOSX10.5.sdk";
+				SDKROOT = "$(DEVELOPER_SDK_DIR)/MacOSX10.6.sdk";
 			};
 			name = Release;
 		};
