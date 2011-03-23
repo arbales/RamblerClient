@@ -216,11 +216,11 @@
 						<key>_historyCapacity</key>
 						<integer>0</integer>
 						<key>bookmark</key>
-						<string>D956B56E126FA07D00C61601</string>
+						<string>D91249F712BC372000DC62CE</string>
 						<key>history</key>
 						<array>
 							<string>D956B56D126FA07D00C61601</string>
-							<string>D956B561126F9F3100C61601</string>
+							<string>D9638C271270C1C5004F9E31</string>
 						</array>
 					</dict>
 					<key>SplitCount</key>
@@ -236,7 +236,7 @@
 				<key>PBXModuleWindowStatusBarHidden2</key>
 				<false/>
 				<key>RubberWindowFrame</key>
-				<string>633 562 1118 616 0 0 1920 1178 </string>
+				<string>558 495 1118 616 0 0 1920 1178 </string>
 			</dict>
 		</dict>
 	</array>
@@ -369,11 +369,11 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>D956B56C126FA07D00C61601</string>
+										<string>D91249F612BC372000DC62CE</string>
 										<key>history</key>
 										<array>
 											<string>D956B56A126FA07D00C61601</string>
-											<string>D956B56B126FA07D00C61601</string>
+											<string>D9638C261270C1C5004F9E31</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -496,11 +496,11 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>D956B529126F9E2600C61601</string>
+				<string>D91249E312BC069400DC62CE</string>
 				<string>1CA23ED40692098700951B8B</string>
-				<string>D956B52A126F9E2600C61601</string>
+				<string>D91249E412BC069400DC62CE</string>
 				<string>D9CB34C6126E64D400C3BB4E</string>
-				<string>D956B52B126F9E2600C61601</string>
+				<string>D91249E512BC069400DC62CE</string>
 				<string>1CA23EDF0692099D00951B8B</string>
 				<string>1CA23EE00692099D00951B8B</string>
 				<string>1CA23EE10692099D00951B8B</string>
@@ -649,14 +649,14 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>D956B52C126F9E2600C61601</string>
+				<string>D91249E612BC069400DC62CE</string>
 				<string>1CCC7628064C1048000F2A68</string>
 				<string>1CCC7629064C1048000F2A68</string>
-				<string>D956B52D126F9E2600C61601</string>
-				<string>D956B52E126F9E2600C61601</string>
-				<string>D956B52F126F9E2600C61601</string>
-				<string>D956B530126F9E2600C61601</string>
-				<string>D9CB34C6126E64D400C3BB4E</string>
+				<string>D91249E712BC069400DC62CE</string>
+				<string>D91249E812BC069400DC62CE</string>
+				<string>D91249E912BC069400DC62CE</string>
+				<string>D91249EA12BC069400DC62CE</string>
+				<string>D91249EB12BC069400DC62CE</string>
 			</array>
 			<key>ToolbarConfigUserDefaultsMinorVersion</key>
 			<string>2</string>
@@ -692,11 +692,10 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>D956B56F126FA07D00C61601</string>
-		<string>D956B53B126F9E3700C61601</string>
-		<string>D956B53C126F9E3700C61601</string>
-		<string>/Users/austin/Ruby Workspace/RamblerClient/RamblerClient.xcodeproj</string>
+		<string>D91249EE12BC069400DC62CE</string>
+		<string>D91249EF12BC069400DC62CE</string>
 		<string>D956B54B126F9EEF00C61601</string>
+		<string>/Users/austin/Ruby Workspace/RamblerClient/RamblerClient.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
 	<string>590 262 1085 828 0 0 1920 1178 </string>
@@ -1072,7 +1071,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1C530D5B069F1CE1000CFCEE</string>
-				<string>D9CB363F126E788D00C3BB4E</string>
+				<string>D9638C281270C1C5004F9E31</string>
 				<string>1C78EAAC065D492600B07095</string>
 			</array>
 			<key>ToolbarConfiguration</key>

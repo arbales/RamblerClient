@@ -12,7 +12,7 @@
 		activeExec = 0;
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
-		activeBuildConfigurationName = Debug;
+		activeBuildConfigurationName = Release;
 		activeExecutable = D9CB31FB126E3A5D00C3BB4E /* RamblerClient */;
 		activeTarget = 8D1107260486CEB800E47090 /* RamblerClient */;
 		addToTargets = (
@@ -67,30 +67,16 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 309304869;
-			PBXWorkspaceStateSaveDate = 309304869;
+			PBXPerProjectTemplateStateSaveDate = 314312329;
+			PBXWorkspaceStateSaveDate = 314312329;
 		};
 		perUserProjectItems = {
-			D956B531126F9E2D00C61601 /* PBXBookmark */ = D956B531126F9E2D00C61601 /* PBXBookmark */;
-			D956B532126F9E2D00C61601 /* PBXTextBookmark */ = D956B532126F9E2D00C61601 /* PBXTextBookmark */;
-			D956B533126F9E3200C61601 /* PBXBookmark */ = D956B533126F9E3200C61601 /* PBXBookmark */;
-			D956B537126F9E3700C61601 /* PBXTextBookmark */ = D956B537126F9E3700C61601 /* PBXTextBookmark */;
-			D956B539126F9E3700C61601 /* PlistBookmark */ = D956B539126F9E3700C61601 /* PlistBookmark */;
-			D956B53D126F9E5300C61601 /* PBXTextBookmark */ = D956B53D126F9E5300C61601 /* PBXTextBookmark */;
-			D956B53F126F9E5400C61601 /* PBXTextBookmark */ = D956B53F126F9E5400C61601 /* PBXTextBookmark */;
-			D956B540126F9E5400C61601 /* PlistBookmark */ = D956B540126F9E5400C61601 /* PlistBookmark */;
-			D956B54A126F9EEF00C61601 /* PBXBookmark */ = D956B54A126F9EEF00C61601 /* PBXBookmark */;
-			D956B55A126F9F1200C61601 /* PBXTextBookmark */ = D956B55A126F9F1200C61601 /* PBXTextBookmark */;
-			D956B55B126F9F2900C61601 /* PBXTextBookmark */ = D956B55B126F9F2900C61601 /* PBXTextBookmark */;
-			D956B55C126F9F2900C61601 /* PBXTextBookmark */ = D956B55C126F9F2900C61601 /* PBXTextBookmark */;
-			D956B55D126F9F2900C61601 /* PBXTextBookmark */ = D956B55D126F9F2900C61601 /* PBXTextBookmark */;
-			D956B55F126F9F2900C61601 /* PlistBookmark */ = D956B55F126F9F2900C61601 /* PlistBookmark */;
-			D956B561126F9F3100C61601 /* PBXBookmark */ = D956B561126F9F3100C61601 /* PBXBookmark */;
+			D91249F612BC372000DC62CE /* PBXTextBookmark */ = D91249F612BC372000DC62CE /* PBXTextBookmark */;
+			D91249F712BC372000DC62CE /* PBXTextBookmark */ = D91249F712BC372000DC62CE /* PBXTextBookmark */;
 			D956B56A126FA07D00C61601 /* PBXTextBookmark */ = D956B56A126FA07D00C61601 /* PBXTextBookmark */;
-			D956B56B126FA07D00C61601 /* PBXTextBookmark */ = D956B56B126FA07D00C61601 /* PBXTextBookmark */;
-			D956B56C126FA07D00C61601 /* PBXTextBookmark */ = D956B56C126FA07D00C61601 /* PBXTextBookmark */;
 			D956B56D126FA07D00C61601 /* PlistBookmark */ = D956B56D126FA07D00C61601 /* PlistBookmark */;
-			D956B56E126FA07D00C61601 /* PBXTextBookmark */ = D956B56E126FA07D00C61601 /* PBXTextBookmark */;
+			D9638C261270C1C5004F9E31 /* PBXTextBookmark */ = D9638C261270C1C5004F9E31 /* PBXTextBookmark */;
+			D9638C271270C1C5004F9E31 /* PBXTextBookmark */ = D9638C271270C1C5004F9E31 /* PBXTextBookmark */;
 		};
 		sourceControlManager = D9CB320D126E3A5F00C3BB4E /* Source Control */;
 		userBuildSettings = {
@@ -121,6 +107,26 @@
 			sepNavWindowFrame = "{{633, 506}, {1118, 672}}";
 		};
 	};
+	D91249F612BC372000DC62CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D9CB3236126E3B8800C3BB4E /* ApplicationController.rb */;
+		name = "ApplicationController.rb: 40";
+		rLen = 0;
+		rLoc = 1158;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	D91249F712BC372000DC62CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D9CB3236126E3B8800C3BB4E /* ApplicationController.rb */;
+		name = "ApplicationController.rb: 5";
+		rLen = 0;
+		rLoc = 120;
+		rType = 0;
+		vrLen = 1191;
+		vrLoc = 722;
+	};
 	D93D8D08126F6D2100390285 /* RamblerMenu.rb */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1073, 345}}";
@@ -128,163 +134,12 @@
 			sepNavVisRange = "{174, 414}";
 		};
 	};
-	D956B531126F9E2D00C61601 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = D9CB3236126E3B8800C3BB4E /* ApplicationController.rb */;
-	};
-	D956B532126F9E2D00C61601 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D9CB3236126E3B8800C3BB4E /* ApplicationController.rb */;
-		name = "ApplicationController.rb: 40";
-		rLen = 0;
-		rLoc = 1158;
-		rType = 0;
-		vrLen = 425;
-		vrLoc = 993;
-	};
-	D956B533126F9E3200C61601 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
-	};
-	D956B537126F9E3700C61601 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D9CB3236126E3B8800C3BB4E /* ApplicationController.rb */;
-		name = "ApplicationController.rb: 40";
-		rLen = 0;
-		rLoc = 1158;
-		rType = 0;
-		vrLen = 0;
-		vrLoc = 0;
-	};
-	D956B539126F9E3700C61601 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-			LSUIElement,
-		);
-		name = "/Users/austin/Ruby Workspace/RamblerClient/Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775807;
-	};
-	D956B53D126F9E5300C61601 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D9CB3236126E3B8800C3BB4E /* ApplicationController.rb */;
-		name = "ApplicationController.rb: 40";
-		rLen = 0;
-		rLoc = 1158;
-		rType = 0;
-		vrLen = 425;
-		vrLoc = 993;
-	};
-	D956B53F126F9E5400C61601 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D9CB3236126E3B8800C3BB4E /* ApplicationController.rb */;
-		name = "ApplicationController.rb: 40";
-		rLen = 0;
-		rLoc = 1158;
-		rType = 0;
-		vrLen = 0;
-		vrLoc = 0;
-	};
-	D956B540126F9E5400C61601 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-			LSUIElement,
-		);
-		name = "/Users/austin/Ruby Workspace/RamblerClient/Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775807;
-	};
-	D956B54A126F9EEF00C61601 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
-	};
-	D956B55A126F9F1200C61601 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D9CB3236126E3B8800C3BB4E /* ApplicationController.rb */;
-		name = "ApplicationController.rb: 40";
-		rLen = 0;
-		rLoc = 1158;
-		rType = 0;
-		vrLen = 425;
-		vrLoc = 993;
-	};
-	D956B55B126F9F2900C61601 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D9CB3236126E3B8800C3BB4E /* ApplicationController.rb */;
-		name = "ApplicationController.rb: 40";
-		rLen = 0;
-		rLoc = 1158;
-		rType = 0;
-		vrLen = 0;
-		vrLoc = 0;
-	};
-	D956B55C126F9F2900C61601 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D9CB3238126E3BAF00C3BB4E /* Growl Registration Ticket.growlRegDict */;
-		name = "Growl Registration Ticket.growlRegDict: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 0;
-		vrLoc = 0;
-	};
-	D956B55D126F9F2900C61601 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D9CB3238126E3BAF00C3BB4E /* Growl Registration Ticket.growlRegDict */;
-		name = "Growl Registration Ticket.growlRegDict: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 0;
-		vrLoc = 0;
-	};
-	D956B55F126F9F2900C61601 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = "/Users/austin/Ruby Workspace/RamblerClient/Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775807;
-	};
-	D956B561126F9F3100C61601 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = D9CB3236126E3B8800C3BB4E /* ApplicationController.rb */;
-	};
 	D956B56A126FA07D00C61601 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = D9CB3238126E3BAF00C3BB4E /* Growl Registration Ticket.growlRegDict */;
 		name = "Growl Registration Ticket.growlRegDict: 1";
 		rLen = 0;
 		rLoc = 0;
-		rType = 0;
-		vrLen = 0;
-		vrLoc = 0;
-	};
-	D956B56B126FA07D00C61601 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D9CB3236126E3B8800C3BB4E /* ApplicationController.rb */;
-		name = "ApplicationController.rb: 40";
-		rLen = 0;
-		rLoc = 1158;
-		rType = 0;
-		vrLen = 0;
-		vrLoc = 0;
-	};
-	D956B56C126FA07D00C61601 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D9CB3236126E3B8800C3BB4E /* ApplicationController.rb */;
-		name = "ApplicationController.rb: 40";
-		rLen = 0;
-		rLoc = 1158;
 		rType = 0;
 		vrLen = 0;
 		vrLoc = 0;
@@ -298,17 +153,27 @@
 		);
 		name = "/Users/austin/Ruby Workspace/RamblerClient/Info.plist";
 		rLen = 0;
-		rLoc = 9223372036854775807;
+		rLoc = 9223372036854775808;
 	};
-	D956B56E126FA07D00C61601 /* PBXTextBookmark */ = {
+	D9638C261270C1C5004F9E31 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D9CB3236126E3B8800C3BB4E /* ApplicationController.rb */;
+		name = "ApplicationController.rb: 40";
+		rLen = 0;
+		rLoc = 1158;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	D9638C271270C1C5004F9E31 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = D9CB3236126E3B8800C3BB4E /* ApplicationController.rb */;
 		name = "ApplicationController.rb: 31";
 		rLen = 0;
 		rLoc = 837;
 		rType = 0;
-		vrLen = 1051;
-		vrLoc = 45;
+		vrLen = 1096;
+		vrLoc = 0;
 	};
 	D9CB31FB126E3A5D00C3BB4E /* RamblerClient */ = {
 		isa = PBXExecutable;
@@ -382,9 +247,9 @@
 	};
 	D9CB3236126E3B8800C3BB4E /* ApplicationController.rb */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1292, 2295}}";
-			sepNavSelRange = "{837, 0}";
-			sepNavVisRange = "{45, 1051}";
+			sepNavIntBoundsRect = "{{0, 0}, {1292, 2325}}";
+			sepNavSelRange = "{120, 0}";
+			sepNavVisRange = "{722, 1191}";
 			sepNavWindowFrame = "{{455, 60}, {1289, 930}}";
 		};
 	};
